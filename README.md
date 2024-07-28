@@ -5,11 +5,10 @@
 ## About Me
 
 - 🧙‍♂️ I’m passionate about using AI and ML to solve challenging problems.
-- 🚀 I specialize in turning innovative ideas into reality with data science and advanced tech solutions.
-- 🤖 I'm always excited to collaborate and create AI awesomeness together.
+- 💼 Currently working as an ML Associate at an esteemed startup where we build AI solutions and products.
+- 🔬 Currently exploring Gen AI tech stack to push the boundaries of what's possible.
 - 📚 I've worked on various AI/ML projects and continuously seek to expand my knowledge.
-- 🔍 Exploring the latest in AI tools and tech stacks to stay ahead of the curve.
-- 💡 Fun fact: I love to dive deep into complex challenges and make things work seamlessly.
+- 💡 Fun fact: I co-founded a startup to provide AI solutions and services to clientele worldwide and love to dive deep into complex challenges to make things work seamlessly.
 
 ---
 
