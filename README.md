@@ -15,7 +15,7 @@
 
 ## Skills
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Data%20Science-Analysis-blue">
   <img src="https://img.shields.io/badge/Data%20Science-Mining-blue">
   <img src="https://img.shields.io/badge/Data%20Science-Modeling-blue">
